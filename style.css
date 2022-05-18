@@ -473,7 +473,7 @@ section .title::after {
 /* projects section styling */
 
 .projects .title::after {
-    content: "-projects i've done or currently doing-";
+    /* content: "-projects i've done or currently doing-"; */
 }
 
 .projects .carousel .card {
