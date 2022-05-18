@@ -336,8 +336,8 @@ section .title::after {
 
 .education .title::after,
 .projects .title::after {
-    background: #000;
-    content: "-where i studied-";
+    /*background: #000;
+    content: "-where i studied-"; */
 }
 
 .education .edu-content .card {
