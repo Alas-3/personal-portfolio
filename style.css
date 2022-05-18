@@ -449,11 +449,11 @@ section .title::after {
 }
 
 .skills-content .right .html::before {
-    width: 90%;
+    width: 69%;
 }
 
 .skills-content .right .css::before {
-    width: 75%;
+    width: 50%;
 }
 
 .skills-content .right .js::before {
