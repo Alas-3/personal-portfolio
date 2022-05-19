@@ -140,7 +140,7 @@ section .title::after {
 
 .navbar .menu li a {
     display: block;
-    color: black;
+    color: white;
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -159,7 +159,7 @@ section .title::after {
 /* menu btn styling */
 
 .menu-btn {
-    color: #fff;
+    color: black;
     font-size: 23px;
     cursor: pointer;
     display: none;
@@ -203,7 +203,7 @@ section .title::after {
     /* background-color: #555;*/
     background-image: url(blob-scene-haikei.svg);
     height: 100vh;
-    color: orange;
+    color: black;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
